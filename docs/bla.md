@@ -1,3 +1,9 @@
+---
+tags:
+  - test
+  - prova
+---
+
 # BENVENUTI
 
 ## What is Lorem Ipsum?
