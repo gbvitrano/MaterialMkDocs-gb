@@ -42,8 +42,8 @@ extra:
 theme:
   name: material
   # custom_dir: docs/theme_override/
-  static_templates:
-    - 404.html
+  # static_templates:
+   #  - 404.html
   palette:
     scheme: preference
   language: it
