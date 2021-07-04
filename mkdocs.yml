@@ -1,10 +1,10 @@
- # Project information
+# Project information
 site_name: MaterialMkDocs-gb
 site_url: https://hfcqgis-md.readthedocs.io/it/latest
 site_description: MaterialMkDocs-gb
 site_author:@gbvitrano
 
-# Repository
+## Repository
 repo_name: gbvitrano
 repo_url: https://github.com/gbvitrano/MaterialMkDocs-gb
 edit_uri: edit/main/docs/ #disables edit button
@@ -12,7 +12,7 @@ edit_uri: edit/main/docs/ #disables edit button
 # Copyright
 copyright: @gbvitrano | CC-BY-SA-4.0 License
 
-# Social Media
+## Social Media
 extra:
   manifest: "manifest.webmanifest"
   social:
