@@ -61,9 +61,9 @@ theme:
   font:
     text: Lato
     code: Roboto Mono
- # favicon: img/favicon.ico
- # icon:
- # logo: img/logo_hfc_white.svg
+  favicon: images/favicon.png
+  icon:
+  logo: assets/logo.png
  
  plugins:
 - search
