@@ -9,6 +9,9 @@ repo_name: MaterialMkDocs-gb
 repo_url: https://github.com/gbvitrano/MaterialMkDocs-gb
 edit_uri: edit/main/docs/ #disables edit button
 
+# Copyright
+copyright: @gbvitrano | CC-BY-SA-4.0 License
+
 ## Social Media
 extra:
   manifest: "manifest.webmanifest"
