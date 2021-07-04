@@ -5,7 +5,7 @@ site_description: MaterialMkDocs-gb
 site_author:@gbvitrano
 
 ## Repository
-repo_name: MaterialMkDocs-gb
+repo_name: MaterialMkDocs/gb
 repo_url: https://github.com/gbvitrano/MaterialMkDocs-gb
 edit_uri: edit/main/docs/ #disables edit button
 
