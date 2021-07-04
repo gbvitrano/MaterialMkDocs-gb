@@ -61,10 +61,7 @@ theme:
   font:
     text: Lato
     code: Roboto Mono
-  favicon: images/favicon.png
-  icon:
-  logo: assets/logo.png
- 
+
  plugins:
 - search
 - mkdocstrings
