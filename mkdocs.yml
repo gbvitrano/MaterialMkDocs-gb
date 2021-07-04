@@ -1,0 +1,131 @@
+## Project information
+site_name: MaterialMkDocs-gb
+site_url: https://hfcqgis-md.readthedocs.io/it/latest
+site_description: MaterialMkDocs-gb
+site_author:@gbvitrano
+
+## Repository
+repo_name: MaterialMkDocs-gb
+repo_url: https://github.com/gbvitrano/MaterialMkDocs-gb
+edit_uri: edit/main/docs/ #disables edit button
+
+## Social Media
+extra:
+  manifest: "manifest.webmanifest"
+  social:
+    - icon: fontawesome/solid/home
+      link: https://hfcqgis-md.readthedocs.io/
+      name: Home Page
+    - icon: fontawesome/brands/twitter
+      link: http://twitter.com/opendatasicilia
+      name: account twitter
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/groups/opendatasicilia/
+      name: gruppo facebook
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/gbvitrano/HfcQGIS_md/
+      name: Repoisitory GitHub
+    - icon: fontawesome/brands/telegram
+      link: http://twitter.com/opendatasicilia
+      name: gruppo Telegram
+    - icon: fontawesome/solid/envelope
+      link: https://groups.google.com/forum/#!forum/opendatasicilia
+      name: mailing list OpenDataSicilia
+  analytics:
+    provider: google
+    property: UA-122084242-1
+    
+    ## Configuration
+theme:
+  name: material
+  # custom_dir: docs/theme_override/
+  static_templates:
+    - 404.html
+  palette:
+    scheme: preference
+  language: it
+  features:
+    - navigation.top
+    - navigation.instant
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - search.highlight
+    - search.share
+    - search.suggest
+  palette:
+    primary: deep orange
+    accent: green
+  font:
+    text: Lato
+    code: Roboto Mono
+ # favicon: img/favicon.ico
+ # icon:
+ # logo: img/logo_hfc_white.svg
+ 
+ plugins:
+- search
+- mkdocstrings
+- autolinks
+- tags:
+    tags_file: tags.md
+    
+markdown_extensions:
+- toc:
+        permalink: ↵
+- meta        
+- mkdocs-click
+- pymdownx.highlight
+- pymdownx.superfences
+- pymdownx.tabbed
+- pymdownx.critic:
+      mode: view
+- pymdownx.betterem:
+      smart_enable: all
+- pymdownx.caret
+- pymdownx.mark
+- pymdownx.tilde
+- pymdownx.smartsymbols
+- admonition
+- pymdownx.details
+- pymdownx.tasklist:
+      clickable_checkbox: true
+- pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+## Custom theme additions
+# extra_javascript:
+  # - stylesheets/extra.js
+ 
+# extra_css:
+  # - stylesheets/gbextra.css
+    
+## Page tree
+nav:
+    - Home: index.md
+    
+    - Uno:
+        - bla bla: bla.com
+        - bla bla:
+            - bla bla: bla.com
+            - bla bla: bla.com   
+        - bla bla: bla.com
+        - bla bla: bla.com        
+    
+    - Due:
+        - bla bla: bla.com
+        - bla bla:
+            - bla bla: bla.com
+            - bla bla: bla.com   
+        - bla bla: bla.com
+        - bla bla: bla.com      
+    
+    - Tre:
+        - bla bla: bla.com
+        - bla bla:
+            - bla bla: bla.com
+            - bla bla: bla.com   
+        - bla bla: bla.com
+        - bla bla: bla.com            
+    - Tags: tags.md
+  
