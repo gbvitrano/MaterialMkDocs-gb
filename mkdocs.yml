@@ -66,9 +66,7 @@ theme:
 - search
 - mkdocstrings
 - autolinks
-- tags:
-    tags_file: tags.md
-    
+
 markdown_extensions:
 - toc:
         permalink: ↵
