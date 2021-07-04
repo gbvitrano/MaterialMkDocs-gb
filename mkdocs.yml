@@ -62,11 +62,13 @@ theme:
     text: Lato
     code: Roboto Mono
 
- plugins:
+plugins:
 - search
 - mkdocstrings
 - autolinks
-
+- tags:
+    tags_file: tags.md
+    
 markdown_extensions:
 - toc:
         permalink: ↵
