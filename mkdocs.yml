@@ -1,8 +1,8 @@
-# Project information
+## Project information
 site_name: MaterialMkDocs-gb
 site_url: https://hfcqgis-md.readthedocs.io/it/latest
 site_description: MaterialMkDocs-gb
-site_author:@gbvitrano
+site_author: gbvitrano
 
 ## Repository
 repo_name: gbvitrano
