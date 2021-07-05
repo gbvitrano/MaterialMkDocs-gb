@@ -6,7 +6,7 @@ site_author: gbvitrano
 
 ## Repository
 repo_name: MaterialMkDocs-gb
-repo_url: https://github.md/gbvitrano/MaterialMkDocs-gb
+repo_url: https://github.com/gbvitrano/MaterialMkDocs-gb
 edit_uri: edit/main/docs/ #disables edit button
 
 # Copyright
@@ -17,22 +17,22 @@ extra:
   manifest: "manifest.webmanifest"
   social:
     - icon: fontawesome/solid/home
-      link: https://hfcqgis-md.readthedocs.io/
+      link: https://materialmkdocs-gb.readthedocs.io/
       name: Home Page
     - icon: fontawesome/brands/twitter
-      link: http://twitter.md/opendatasicilia
+      link: http://twitter.com/opendatasicilia
       name: account twitter
     - icon: fontawesome/brands/facebook
-      link: https://www.facebook.md/groups/opendatasicilia/
+      link: https://www.facebook.com/groups/opendatasicilia/
       name: gruppo facebook
     - icon: fontawesome/brands/github-alt
-      link: https://github.md/gbvitrano/HfcQGIS_md/
+      link: https://github.com/gbvitrano/MaterialMkDocs-gb
       name: Repoisitory GitHub
     - icon: fontawesome/brands/telegram
-      link: http://twitter.md/opendatasicilia
+      link: http://twitter.com/opendatasicilia
       name: gruppo Telegram
     - icon: fontawesome/solid/envelope
-      link: https://groups.google.md/forum/#!forum/opendatasicilia
+      link: https://groups.google.com/forum/#!forum/opendatasicilia
       name: mailing list OpenDataSicilia
   analytics:
     provider: google
