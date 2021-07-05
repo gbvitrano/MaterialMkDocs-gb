@@ -70,7 +70,6 @@ plugins:
 - search
 - mkdocstrings
 - autolinks
-- tags
     
 markdown_extensions:
 - toc:
