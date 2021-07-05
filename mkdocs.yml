@@ -6,7 +6,7 @@ site_author: gbvitrano
 
 ## Repository
 repo_name: MaterialMkDocs-gb
-repo_url: https://github.com/gbvitrano/MaterialMkDocs-gb
+repo_url: https://github.md/gbvitrano/MaterialMkDocs-gb
 edit_uri: edit/main/docs/ #disables edit button
 
 # Copyright
@@ -20,19 +20,19 @@ extra:
       link: https://hfcqgis-md.readthedocs.io/
       name: Home Page
     - icon: fontawesome/brands/twitter
-      link: http://twitter.com/opendatasicilia
+      link: http://twitter.md/opendatasicilia
       name: account twitter
     - icon: fontawesome/brands/facebook
-      link: https://www.facebook.com/groups/opendatasicilia/
+      link: https://www.facebook.md/groups/opendatasicilia/
       name: gruppo facebook
     - icon: fontawesome/brands/github-alt
-      link: https://github.com/gbvitrano/HfcQGIS_md/
+      link: https://github.md/gbvitrano/HfcQGIS_md/
       name: Repoisitory GitHub
     - icon: fontawesome/brands/telegram
-      link: http://twitter.com/opendatasicilia
+      link: http://twitter.md/opendatasicilia
       name: gruppo Telegram
     - icon: fontawesome/solid/envelope
-      link: https://groups.google.com/forum/#!forum/opendatasicilia
+      link: https://groups.google.md/forum/#!forum/opendatasicilia
       name: mailing list OpenDataSicilia
   analytics:
     provider: google
@@ -108,27 +108,27 @@ nav:
     - Home: index.md
     
     - Uno:
-        - bla bla: bla.com
+        - bla bla: bla.md
         - bla bla:
-            - bla bla: bla.com
-            - bla bla: bla.com   
-        - bla bla: bla.com
-        - bla bla: bla.com        
+            - bla bla: bla.md
+            - bla bla: bla.md   
+        - bla bla: bla.md
+        - bla bla: bla.md        
     
     - Due:
-        - bla bla: bla.com
+        - bla bla: bla.md
         - bla bla:
-            - bla bla: bla.com
-            - bla bla: bla.com   
-        - bla bla: bla.com
-        - bla bla: bla.com      
+            - bla bla: bla.md
+            - bla bla: bla.md   
+        - bla bla: bla.md
+        - bla bla: bla.md      
     
     - Tre:
-        - bla bla: bla.com
+        - bla bla: bla.md
         - bla bla:
-            - bla bla: bla.com
-            - bla bla: bla.com   
-        - bla bla: bla.com
-        - bla bla: bla.com            
+            - bla bla: bla.md
+            - bla bla: bla.md   
+        - bla bla: bla.md
+        - bla bla: bla.md            
     - Tags: tags.md
   
