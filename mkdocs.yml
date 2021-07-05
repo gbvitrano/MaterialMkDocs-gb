@@ -57,12 +57,12 @@ theme:
     - search.suggest
   palette:
     - media: "(prefers-color-scheme: light)"
-      scheme: default
+      scheme: white
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
-      scheme: slate
+      scheme: black
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
