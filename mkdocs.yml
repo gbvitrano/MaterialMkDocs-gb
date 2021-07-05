@@ -49,8 +49,12 @@ theme:
   language: it
   features:
     - navigation.top
+    - navigation.instant
     - navigation.tabs
     - navigation.tabs.sticky
+    - search.highlight
+    - search.share
+    - search.suggest
 
   palette:
     primary: deep orange
