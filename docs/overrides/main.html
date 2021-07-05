@@ -1,10 +1,9 @@
 <!-- Elements added to main will be displayed on all pages -->
 {% extends "base.html" %}
 
-{% block content %} 
-{{ super() }}
-{% endblock content %}
-
+{% block libs %}
+ <!-- Qui Script header) --> 
+{% endblock %}
 
 {% block extrahead %}
   {% set title = config.site_name %}
