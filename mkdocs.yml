@@ -44,8 +44,6 @@ theme:
   custom_dir: docs/overrides/
   static_templates:
     - 404.html
-  palette:
-    scheme: preference
   language: it
   features:
     - navigation.top
@@ -56,15 +54,15 @@ theme:
     - search.share
     - search.suggest
   palette:
-    primary: white
-    accent: orange
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
+    - scheme: default
+      primary: white
+      accent: orange
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
+    - scheme: slate
+      primary: black
+      accent: orange
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
