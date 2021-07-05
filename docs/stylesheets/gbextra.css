@@ -11,7 +11,7 @@
 .md-source__icon+,
 .md-source__repository {
   font-family: "TruenoLight", /*Oswald,*/ sans-serif;
-  /*text-transform: uppercase;*/
+  /* text-transform: uppercase;*/
   font-weight: bold;
 }
 
@@ -174,7 +174,7 @@ div.doc-contents:not(.first) {
 
 
 /* logo personalizzato*/
- .md-header__button.md-logo img, .md-header__button.md-logo svg {/*height: 2.5rem!important;    width: 12rem!important;/* padding-right: 3rem!important; box-shadow: none !important; border: none !important;	border-radius:  none !important;	moz-border-radius: none !important; -webkit-border-radius: none !important;	background-color: transparent !important;}
+ .md-header__button.md-logo img, .md-header__button.md-logo svg {/*height: 2.5rem!important;    width: 12rem!important;*/ padding-right: 3rem!important; box-shadow: none !important; border: none !important;	border-radius:  none !important;	moz-border-radius: none !important; -webkit-border-radius: none !important;	background-color: transparent !important;}
 
 /* logo personalizzato mobile*/
  .md-nav__title .md-nav__button.md-logo img, .md-nav__title .md-nav__button.md-logo svg {fill: currentColor; display: block;/* height: 2.5rem!important; width: 12rem !important;*/ padding-right: 3rem; box-shadow: none !important;  border: none !important; border-radius: none !important; moz-border-radius: none !important; -webkit-border-radius: none !important;   background-color: transparent !important;}
