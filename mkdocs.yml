@@ -41,9 +41,9 @@ extra:
 # Configuration
 theme:
   name: material
-  # custom_dir: docs/theme_override/
-  # static_templates:
-   #  - 404.html
+  custom_dir: docs/overrides/
+  static_templates:
+    - 404.html
   palette:
     scheme: preference
   language: it
@@ -57,11 +57,16 @@ theme:
   font:
     text: Lato
     code: Roboto Mono
+  favicon: img/favicon.ico
+  icon:
+  logo: img/gb_128.png
 
 plugins:
 - search
 - mkdocstrings
 - autolinks
+# - tags:
+  #    tags_file: tags.md
     
 markdown_extensions:
 - toc:
@@ -88,15 +93,15 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
 
 ## Custom theme additions
-# extra_javascript:
-  # - stylesheets/extra.js
+extra_javascript:
+   - stylesheets/extra.js
  
-# extra_css:
-  # - stylesheets/gbextra.css
+ extra_css:
+   - stylesheets/gbextra.css
     
 ## Page tree
 nav:
-   # - Home: index.md
+    - Home: index.md
     
     - Uno:
         - bla bla: bla.com
