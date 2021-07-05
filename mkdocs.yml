@@ -56,6 +56,8 @@ theme:
     - search.share
     - search.suggest
   palette:
+    primary: white
+    accent: orange
     - media: "(prefers-color-scheme: light)"
       scheme: white
       toggle:
