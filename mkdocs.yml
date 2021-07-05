@@ -59,7 +59,7 @@ theme:
     primary: white
     accent: orange
     - media: "(prefers-color-scheme: light)"
-      scheme: white
+      scheme: default
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
