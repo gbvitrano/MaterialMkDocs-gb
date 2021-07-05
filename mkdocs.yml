@@ -128,6 +128,7 @@ nav:
             - bla bla: bla.md
             - bla bla: bla.md   
         - bla bla: bla.md
-        - bla bla: bla.md            
+        - bla bla: bla.md  
+    - Privacy: privacy.md      
   # - Tags: tags.md
   
