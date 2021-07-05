@@ -49,7 +49,6 @@ theme:
   language: it
   features:
     - navigation.top
-    - navigation.instant
     - navigation.tabs
     - navigation.tabs.sticky
 
