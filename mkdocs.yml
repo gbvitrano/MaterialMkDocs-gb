@@ -71,7 +71,6 @@ plugins:
 - mkdocstrings
 - autolinks
 - tags
-  #    tags_file: tags.md
     
 markdown_extensions:
 - toc:
