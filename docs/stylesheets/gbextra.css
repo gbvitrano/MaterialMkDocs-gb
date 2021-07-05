@@ -11,6 +11,7 @@
 .md-source__icon+,
 .md-source__repository {
   font-family: "TruenoLight", /*Oswald,*/ sans-serif;
+  /* text-transform: uppercase!important;  */
  text-transform:  none!important; 
   font-weight: bold;
 }
@@ -23,7 +24,7 @@
 
 .md-typeset h1, .md-tabs, .md-header-nav__topic, .md-sidebar, .md-ellipsis {
     font-family: "TruenoLight", /*Oswald,*/ sans-serif;
-    /*text-transform: uppercase;*/
+    /* text-transform: uppercase!important;  */
     font-weight: bold;
 }
 .md-typeset h1, .md-typeset h2 {
