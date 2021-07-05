@@ -11,7 +11,7 @@
 .md-source__icon+,
 .md-source__repository {
   font-family: "TruenoLight", /*Oswald,*/ sans-serif;
-  text-transform: uppercase;
+  /*text-transform: uppercase;*/
   font-weight: bold;
 }
 
