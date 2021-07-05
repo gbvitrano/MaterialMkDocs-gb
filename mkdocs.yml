@@ -92,7 +92,7 @@ markdown_extensions:
 - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
-
+- attr_list
 ## Custom theme additions
 extra_javascript:
    - stylesheets/extra.js
@@ -105,7 +105,7 @@ nav:
     - Home: index.md
     
     - Uno:
-        - bla bla: bla.md
+        - bla bla: bla1.md
         - bla bla:
             - bla bla: bla.md
             - bla bla: bla.md   
@@ -113,7 +113,7 @@ nav:
         - bla bla: bla.md        
     
     - Due:
-        - bla bla: bla.md
+        - bla bla: bla2.md
         - bla bla:
             - bla bla: bla.md
             - bla bla: bla.md   
@@ -121,7 +121,7 @@ nav:
         - bla bla: bla.md      
     
     - Tre:
-        - bla bla: bla.md
+        - bla bla: bla3.md
         - bla bla:
             - bla bla: bla.md
             - bla bla: bla.md   
