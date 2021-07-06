@@ -77,7 +77,7 @@ plugins:
 - search
 - mkdocstrings
 - autolinks
-    
+- macros    
 markdown_extensions:
 - toc:
         permalink: ↵
@@ -102,6 +102,11 @@ markdown_extensions:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
 - attr_list
+- def_list
+- abbr
+- pymdownx.snippets
+- footnotes
+
 ## Custom theme additions
 extra_javascript:
    - stylesheets/extra.js
