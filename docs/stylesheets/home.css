@@ -35,7 +35,7 @@ body {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 
-.hr {border: 0; height: 1px; background:  #589632; background-image: linear-gradient(to right, #93b023,  #589632, #93b023);  width: 100%; margin: 20px 0; }
+.hr {border: 0; height: 1px!important; background:  #589632!important; background-image: linear-gradient(to right, #93b023,  #589632, #93b023)!important;  width: 100%!important; margin: 20px 0!important; }
 
 /*hr:not([size]) {
   height: 1px;
@@ -4250,10 +4250,11 @@ textarea.form-control-lg {
   border: 1px solid rgba(0, 0, 0, 0.125);
   border-radius: 0.25rem;
 }
+/*
 .card > hr {
   margin-right: 0;
   margin-left: 0;
-}
+} */
 .card > .list-group {
   border-top: inherit;
   border-bottom: inherit;
