@@ -66,7 +66,7 @@ img,
 svg,
 video {
   vertical-align: middle; }
-
+/*
 h1,
 h2,
 h3,
@@ -95,6 +95,7 @@ h5 {
 
 h6 {
   font-size: 16px; }
+  */
 
 ul, ol {
   margin: 0px;
@@ -602,7 +603,7 @@ p {
     transition: all 0.3s ease-out 0s;
     padding: 10px 0;
     position: relative;
-    font-family: "Open Sans", sans-serif;
+    /*font-family: "Open Sans", sans-serif;*/
     position: relative; }
     @media only screen and (min-width: 768px) and (max-width: 991px) {
       .navbar-nav .nav-item a {
