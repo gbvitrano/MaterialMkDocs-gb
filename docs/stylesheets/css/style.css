@@ -37,7 +37,7 @@ body {
 
 img {
   max-width: 100%; }
-
+/*
 a:focus,
 input:focus,
 textarea:focus,
@@ -50,7 +50,7 @@ a {
 
 a:focus,
 a:hover {
-  text-decoration: none; }
+  text-decoration: none; } */
 
 i,
 span,
