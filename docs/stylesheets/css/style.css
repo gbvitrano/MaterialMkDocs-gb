@@ -977,8 +977,8 @@ p {
     font-size: 46px;
     background-color: #589632 ;
     color: #fff;
-    border-radius: 25px;
-    border-bottom-right-radius: 0;
+    border-radius: 50px;
+   /* border-bottom-right-radius: 0;*/
     -webkit-transition: all 0.3s ease-out 0s;
     -moz-transition: all 0.3s ease-out 0s;
     -ms-transition: all 0.3s ease-out 0s;
