@@ -81,7 +81,7 @@ h4, .h4 {
 }
 @media (min-width: 1200px) {
   h4, .h4 {
-    font-size: 1.3rem;
+    font-size: 1.3rem; text-align:left;
   }
 }
 
@@ -610,6 +610,7 @@ progress {
   margin-top: calc(var(--bs-gutter-y) * -1);
   margin-right: calc(var(--bs-gutter-x) * -.5);
   margin-left: calc(var(--bs-gutter-x) * -.5);
+  text-align: left;
 }
 .row > * {
   flex-shrink: 0;
