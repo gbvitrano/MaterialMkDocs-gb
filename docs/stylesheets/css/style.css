@@ -21,8 +21,9 @@
 /*===========================
       01.COMMON css 
 ===========================*/
-@import url("https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700,800|Open+Sans:400,600,700&display=swap");
-body {
+/* @import url("https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700,800|Open+Sans:400,600,700&display=swap");*/
+
+/*body {
   font-family: "Open Sans", sans-serif;
   font-weight: normal;
   font-style: normal;
@@ -36,7 +37,8 @@ body {
   box-sizing: border-box; }
 
 img {
-  max-width: 100%; }
+  max-width: 100%; }*/
+  
 /*
 a:focus,
 input:focus,
