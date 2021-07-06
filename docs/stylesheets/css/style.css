@@ -209,10 +209,8 @@ p {
    padding-top: 6.5rem;
   padding-bottom: 3rem;
   text-align: center;
-  color: #fff;
-  background-image:url(../../img/logo_hfc_00.png);
-  opacity: 0.25;
-  background-repeat: no-repeat;
+  background-image:url(../../img/hfc_preloader.png);
+    background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
   background-size: contain;
