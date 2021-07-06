@@ -206,6 +206,16 @@ p {
   width: 100%;
   /* Change Background Color */
   background: #fff;
+   padding-top: 6.5rem;
+  padding-bottom: 3rem;
+  text-align: center;
+  color: #fff;
+  background-image:url(../../img/logo_hfc_00.png);
+  opacity: 0.25;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: center center;
+  background-size: contain;
   z-index: 99999; }
   .preloader .loader {
     display: table-cell;
@@ -214,7 +224,8 @@ p {
     .preloader .loader .ytp-spinner {
       position: absolute;
       left: 50%;
-      top: 50%;
+      top: 25%;
+	  opacity: 0.95;
       width: 64px;
       margin-left: -32px;
       z-index: 18;
