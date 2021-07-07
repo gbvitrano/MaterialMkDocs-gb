@@ -2,6 +2,6 @@
 
 Puoi consultare questa documentazione offline tramite:
 
-## PDF  [download](docs/MaterialMkDocs-gb.pdf)
+## PDF  [download](MaterialMkDocs-gb.pdf)
 
 ## HTML [page](../print_page) di tutta la documentazione
