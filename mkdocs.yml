@@ -85,7 +85,7 @@ plugins:
     print_site_banner_template: "docs/pdf/banner.tpl"
     # Table of contents
     add_table_of_contents: true
-    toc_title: 'Table of Contents'
+    toc_title: 'MaterialMkDocs formato PDF'
     toc_depth: 6
     # Content-related
     add_full_urls: true
