@@ -1014,10 +1014,10 @@ p {
       -o-transition: all 0.3s ease-out 0s;
       transition: all 0.3s ease-out 0s; }
   .single_service:hover {
-    background-color: #589632; }
+    background-color: #f18d36 ; }
     .single_service:hover .service_icon i {
       background-color: #fff;
-      color: #589632; }
+      color: #f18d36 ; }
     .single_service:hover .service_content .service_title a {
       color: #fff; }
     .single_service:hover .service_content p {
