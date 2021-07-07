@@ -1,6 +1,6 @@
 <p>
-    <em>This box will disappear when printing</em>
+    <em>Questa messaggio non verrà stampato nel PDF</em>
     <span style="float: right"><a href="https://timvink.github.io/mkdocs-print-site-plugin/">mkdocs-print-site-plugin</a></span>
 </p>
-<p>This page combines all site pages and applies print and PDF friendly styling. Print or export to PDF using <b>File > Print > Save as PDF</b>.</p>
-<p>For creating PDFs, make sure to use the browser's print and save-as-pdf function instead of the system dialog.</p>
+<p>Questa pagina combina tutte le pagine del sito e applica uno stile amichevole per la stampa e il PDF. Stampa o esporta in PDF usando <b>File > Stampa > Salva come PDF</b>.</p>
+<p>Per creare PDF, assicurati di utilizzare la funzione di stampa e salvataggio come PDF del browser anziché la finestra di dialogo di sistema.</p>
