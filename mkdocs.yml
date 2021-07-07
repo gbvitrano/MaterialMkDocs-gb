@@ -97,7 +97,6 @@ plugins:
     exclude:
 # - img2fig 
 - pdf-export
-    combined: true
     theme_handler_path: theme-handler/cinder.py
 - rss:
     abstract_chars_count: 160
