@@ -11,12 +11,12 @@
 </div>
 
 {% if config.site_author %}
-    <p>Authors: {{ config.site_author }}</p>
+    <p>Autore: {{ config.site_author }}</p>
 {% endif %}
 
 <p>
     {% if config.site_url %}
-        <small>Website: <a href="{{ config.site_url }}">{{ config.site_url }}</a></small><br />
+        <small>Sito web: <a href="{{ config.site_url }}">{{ config.site_url }}</a></small><br />
     {% endif %}
     {% if config.repo_url %}
         <small>Repo: <a href="{{ config.repo_url }}">{{ config.repo_url }}</a></small><br />
@@ -24,4 +24,5 @@
     {% if config.copyright %}
         <small>{{ config.copyright }}</small><br />
     {% endif %}
+	<img src="../img/logo_hfc_00.png" width="auto"/>
 </p>
