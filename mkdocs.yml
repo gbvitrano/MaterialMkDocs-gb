@@ -78,6 +78,23 @@ plugins:
 - mkdocstrings
 - autolinks
 - macros   
+  - print-site:
+      add_to_navigation: true
+      print_page_title: 'Print Site'
+      add_print_site_banner: true
+      print_site_banner_template: "docs/pdf/banner.tpl"
+      # Table of contents
+      add_table_of_contents: true
+      toc_title: 'Table of Contents'
+      toc_depth: 6
+      # Content-related
+      add_full_urls: false
+      enumerate_headings: true
+      enumerate_figures: true
+      add_cover_page: true
+      cover_page_template: "docs/pdf/cover_page.tpl"
+      path_to_pdf: "docs/test.pdf"
+      exclude:
 
 markdown_extensions:
 - toc:
