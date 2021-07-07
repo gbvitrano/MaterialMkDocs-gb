@@ -93,7 +93,7 @@ plugins:
     enumerate_figures: true
     add_cover_page: true
     cover_page_template: "docs/pdf/cover_page.tpl"
-    path_to_pdf: "pdf/test.pdf"
+    path_to_pdf: "docs/MaterialMkDocs-gb.pdf"
     exclude:
     
 markdown_extensions:
