@@ -95,7 +95,16 @@ plugins:
     cover_page_template: "docs/pdf/cover_page.tpl"
     path_to_pdf: "MaterialMkDocs-gb.pdf"
     exclude:
-# - img2fig    
+# - img2fig   
+- rss:
+    abstract_chars_count: 160
+    date_from_meta:
+    as_creation: "date"
+    as_update: false
+    datetime_format: "%Y-%m-%d"
+    feed_ttl: 1440
+    length: 20
+    pretty_print: false 
 
 markdown_extensions:
 - toc:
