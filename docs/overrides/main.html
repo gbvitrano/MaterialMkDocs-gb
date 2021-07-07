@@ -55,3 +55,13 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   {% endblock %}
   
+{% block content %}
+
+{% if page.url_to_pdf %}
+    <a href="{{ page.url_to_pdf }}" title="Scarica il PDF" class="md-content__button md-icon">
+        {% include ".icons/material/pdf-box.svg" %}
+    </a>
+{% endif %}
+
+{{ super() }}
+{% endblock content %}
