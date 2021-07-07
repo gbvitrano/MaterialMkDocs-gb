@@ -3,6 +3,8 @@ click
 click-plugins
 click-config-file
 pytest
+pytest-cov
+pyflakes
 mkdocs
 mkdocs-material
 mkdocstrings
@@ -15,3 +17,6 @@ mkdocs-exclude
 mkdocs-exclude-search
 mkdocs-macros-plugin
 mkdocs-print-site-plugin
+mkdocs-git-revision-date-localized-plugin
+mkdocs-windmill
+mkdocs-img2fig-plugin
