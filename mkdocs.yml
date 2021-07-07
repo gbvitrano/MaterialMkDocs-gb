@@ -80,7 +80,7 @@ plugins:
 - macros   
 - print-site:
       add_to_navigation: true
-      print_page_title: 'Print Site'
+      print_page_title: 'Content'
       # Table of contents
       add_table_of_contents: true
       toc_title: 'Table of Contents'
@@ -90,8 +90,8 @@ plugins:
       enumerate_headings: true
       enumerate_figures: true
       add_cover_page: true
-      cover_page_template: ""
-      path_to_pdf: ""
+      cover_page_template: "docs/pdf/banner.tpl"
+      path_to_pdf: "docs/pdf/cover_page.tpl"
       exclude:
       
 markdown_extensions:
