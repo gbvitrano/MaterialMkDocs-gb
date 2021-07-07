@@ -29,8 +29,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.1828561"
-     inkscape:cx="390.58006"
-     inkscape:cy="90.036313"
+     inkscape:cx="350.84572"
+     inkscape:cy="90.036311"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -77,36 +77,36 @@
      style="opacity:0.99">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41.8255px;line-height:125%;font-family:Trueno;-inkscape-font-specification:Trueno;letter-spacing:0px;word-spacing:0px;fill:#7da629;fill-opacity:1;stroke:none;stroke-width:0.284375px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="19.732553"
-       y="222.36043"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.8866px;line-height:125%;font-family:Trueno;-inkscape-font-specification:Trueno;letter-spacing:0px;word-spacing:0px;fill:#7da629;fill-opacity:1;stroke:none;stroke-width:0.230398px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="21.343668"
+       y="217.59618"
        id="text50"><tspan
          sodipodi:role="line"
          id="tspan48"
-         x="19.732553"
-         y="222.36043"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:34.125px;font-family:Trueno;-inkscape-font-specification:'Trueno, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.284375px">Test</tspan></text>
+         x="21.343668"
+         y="217.59618"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:27.6477px;font-family:Trueno;-inkscape-font-specification:'Trueno, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.230398px">Test</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44.282px;line-height:125%;font-family:Trueno;-inkscape-font-specification:Trueno;letter-spacing:0px;word-spacing:0px;opacity:0.99;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.301076px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="91.727997"
-       y="231.77863"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:38.6422px;line-height:125%;font-family:Trueno;-inkscape-font-specification:Trueno;letter-spacing:0px;word-spacing:0px;opacity:0.99;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.262731px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="78.535889"
+       y="226.88626"
        id="text50-9"><tspan
          sodipodi:role="line"
          id="tspan48-9"
-         x="91.727997"
-         y="231.77863"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.1004px;font-family:Trueno;-inkscape-font-specification:'Trueno, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff0000;fill-opacity:1;stroke-width:0.301076px">Preload</tspan></text>
+         x="78.535889"
+         y="226.88626"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24.5215px;font-family:Trueno;-inkscape-font-specification:'Trueno, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff0000;fill-opacity:1;stroke-width:0.262731px">Preloader</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:1.54455px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.369106"
-       x="93.663826"
-       y="239.14249"
+       style="font-style:normal;font-weight:normal;font-size:1.93182px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.461654"
+       x="82.333824"
+       y="238.36282"
        id="text3022"><tspan
          sodipodi:role="line"
          id="tspan3024"
-         x="93.663826"
-         y="239.14249"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76788px;line-height:1.25;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.369106">RTD by @opendatasicilia</tspan></text>
+         x="82.333824"
+         y="238.36282"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.71557px;line-height:1.25;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.461654"> by @opendatasicilia</tspan></text>
   </g>
 </svg>
