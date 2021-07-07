@@ -79,7 +79,7 @@ plugins:
 - autolinks
 - macros   
 - print-site:
-    add_to_navigation: true
+    add_to_navigation: false
     print_page_title: 'Print Site'
     add_print_site_banner: true
     print_site_banner_template: "docs/pdf/banner.tpl"
