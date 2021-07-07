@@ -96,7 +96,10 @@ plugins:
     path_to_pdf: "MaterialMkDocs-gb.pdf"
     exclude:
 # - img2fig 
-- pdf-export 
+- pdf-export
+    verbose: true
+    media_type: print
+    enabled_if_env: ENABLE_PDF_EXPORT
 - rss:
     abstract_chars_count: 160
     date_from_meta:
