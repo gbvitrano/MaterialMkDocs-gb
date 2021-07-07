@@ -82,7 +82,7 @@ plugins:
     toc_title: Content
     toc_depth: 2
     add_print_site_banner: false
-    print_site_banner_template: "pdf/banner.tpl"
+    print_site_banner_template: "docs/pdf/banner.tpl"
     add_to_navigation: true
     print_page_title: 'Documentazione'
     add_table_of_contents: true
@@ -90,7 +90,7 @@ plugins:
     enumerate_headings: false
     enumerate_figures: true
     add_cover_page: true
-    cover_page_template: "pdf/cover_page.tpl"
+    cover_page_template: "docs/pdf/cover_page.tpl"
     exclude:
   
 markdown_extensions:
