@@ -97,7 +97,7 @@ plugins:
     exclude:
 # - img2fig 
 - pdf-export
-   
+    enabled_if_env: ENABLE_PDF_EXPORT
 - rss:
     abstract_chars_count: 160
     date_from_meta:
