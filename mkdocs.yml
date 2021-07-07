@@ -95,7 +95,8 @@ plugins:
     cover_page_template: "docs/pdf/cover_page.tpl"
     path_to_pdf: "MaterialMkDocs-gb.pdf"
     exclude:
-    
+- img2fig    
+
 markdown_extensions:
 - toc:
         permalink: ↵
