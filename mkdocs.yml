@@ -104,6 +104,7 @@ plugins:
         - index.md
 # - img2fig 
 - pdf-export
+    theme_handler_path: theme-handler.py
     
 - rss:
     abstract_chars_count: 160
