@@ -18,6 +18,7 @@ mkdocs-exclude-search
 mkdocs-macros-plugin
 mkdocs-print-site-plugin
 mkdocs-pdf-export-plugin
+weasyprint>=47
 mkdocs-git-revision-date-localized-plugin
 mkdocs-windmill
 mkdocs-img2fig-plugin
