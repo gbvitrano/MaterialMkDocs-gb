@@ -103,7 +103,11 @@ plugins:
     exclude:
         - index.md
 # - img2fig 
-- pdf-export
+- pdf-export:
+        verbose: true
+        media_type: print
+        enabled_if_env: ENABLE_PDF_EXPORT
+        theme_handler_path: theme-handler.py
     
 - rss:
     abstract_chars_count: 160
