@@ -16,7 +16,6 @@ mkdocs-jupyter
 mkdocs-exclude
 mkdocs-exclude-search
 mkdocs-macros-plugin
-weasyprint
 mkdocs-print-site-plugin
 mkdocs-pdf-export-plugin
 mkdocs-git-revision-date-localized-plugin
