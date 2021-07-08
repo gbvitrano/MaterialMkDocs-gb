@@ -19,7 +19,6 @@ mkdocs-macros-plugin
 weasyprint
 mkdocs-print-site-plugin
 mkdocs-pdf-export-plugin
-weasyprint
 mkdocs-git-revision-date-localized-plugin
 mkdocs-windmill
 mkdocs-img2fig-plugin
