@@ -1,7 +1,7 @@
 ## Project information
 site_name: MaterialMkDocs-gb
 site_url: https://materialmkdocs-gb.readthedocs.io/it/latest/
-site_description: MaterialMkDocs-gb
+site_description: MaterialMkDocs-gb repo test
 site_author: gbvitrano
 
 ## Repository
@@ -119,7 +119,8 @@ plugins:
     image: img/hfc_rss.png
     feed_ttl: 1440
     length: 20
-    pretty_print: false 
+    pretty_print: false
+    match_path: ".*"
 
 markdown_extensions:
 - toc:
