@@ -108,7 +108,7 @@ plugins:
     theme_handler_path: theme-handler.py
   #  verbose: false
   #  media_type: print
-  #  enabled_if_env: ENABLE_PDF_EXPORT
+    enabled_if_env: ENABLE_PDF_EXPORT
     
 - rss:
     abstract_chars_count: 160
