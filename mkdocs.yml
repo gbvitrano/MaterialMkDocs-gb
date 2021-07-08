@@ -105,7 +105,7 @@ plugins:
 # - img2fig 
 - pdf-export:
   #  combined: false
-  #  theme_handler_path: theme-handler.py
+    theme_handler_path: theme-handler.py
   #  verbose: false
   #  media_type: print
     enabled_if_env: ENABLE_PDF_EXPORT
