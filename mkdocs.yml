@@ -84,6 +84,7 @@ plugins:
 - mkdocstrings
 - autolinks
 - macros   
+# - img2fig 
 - print-site:
     add_to_navigation: false
     print_page_title: 'Manuale pdf'
@@ -102,14 +103,12 @@ plugins:
     path_to_pdf: "MaterialMkDocs-gb.pdf"
     exclude:
         - index.md
-# - img2fig 
 - pdf-export
   #  combined: false
   #  theme_handler_path: theme-handler.py
   #  verbose: false
   #  media_type: print
   #  enabled_if_env: ENABLE_PDF_EXPORT
-    
 - rss:
     abstract_chars_count: 160
     date_from_meta:
