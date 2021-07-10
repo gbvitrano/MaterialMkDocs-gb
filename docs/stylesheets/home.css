@@ -11080,9 +11080,3 @@ table {
       margin-top: 0; }
     table tr th :last-child, table tr td :last-child {
       margin-bottom: 0; }
-	  
-	  	  /* link home
-.bla {color: #589632!important;	text-decoration:none;}
-.bla a:link{color: #589632!important;	text-decoration:none;}
-.bla a:visited {	color: #589632!important; text-decoration:none;}
-.bla a:hover {color: #589632!important; text-decoration:underline; } */
