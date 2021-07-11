@@ -85,7 +85,7 @@ plugins:
 - autolinks
 - macros   
 - blog:
-    format: "(%d/%m/%YYYY)"
+    format: "(%d/%m/%yyyy"
     text-align: "left"
 # - img2fig 
 - print-site:
@@ -168,7 +168,6 @@ extra_css:
 ## Page tree
 nav:
     - Home: index.md
-    - Blog:
     - Uno:
         - bla bla: bla1.md
         - bla bla:
