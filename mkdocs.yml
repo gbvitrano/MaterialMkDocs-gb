@@ -191,7 +191,16 @@ nav:
             - bla bla: bla.md
             - bla bla: bla.md   
         - bla bla: bla.md
-        - bla bla: bla.md  
+        - bla bla: bla.md 
+    - Blog:
+        - 2021:
+            - Aprile:
+                - Bla bla: blog/2021/04/05/bla2.md
+            - Maggio:
+                - OpenDataSicilia: blog/2021/05/20/ods.md 
+            - Agosto:        
+                - Informativa: blog/2021/08/07/privacy.md
+                - Informativa: blog/2021/08/08/wms_catasto.md
     - Privacy: privacy.md 
   # - Tags: tags.md
   
