@@ -84,6 +84,9 @@ plugins:
 - mkdocstrings
 - autolinks
 - macros   
+- blog:
+    format: "(%d/%m/%YYYY)"
+    text-align: "left"
 # - img2fig 
 - print-site:
     add_to_navigation: false
