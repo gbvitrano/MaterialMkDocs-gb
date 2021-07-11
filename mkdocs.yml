@@ -84,7 +84,7 @@ plugins:
 - mkdocstrings
 - autolinks
 - macros   
-- blog
+# - blog
 # - img2fig 
 - print-site:
     add_to_navigation: false
@@ -166,11 +166,6 @@ extra_css:
 ## Page tree
 nav:
     - Home: index.md
-    - Blog:
-        - blog/2021/04/05/bla2.md
-        - blog/2021/05/20/ods.md 
-        - blog/2021/08/07/privacy.md
-        - blog/2021/08/08/wms_catasto.md
         
     - Uno:
         - bla bla: bla1.md
