@@ -55,10 +55,8 @@ theme:
     - navigation.top
     - navigation.instant
     - navigation.tabs
-    - navigation.tabs.sticky
-    - search.highlight
-    - search.share
-    - search.suggest
+    - navigation.sections
+
   palette:
     - scheme: default
       primary: white
