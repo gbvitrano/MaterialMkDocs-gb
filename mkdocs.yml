@@ -10,7 +10,7 @@ repo_url: https://github.com/gbvitrano/MaterialMkDocs-gb
 edit_uri: # edit/main/docs/ #disables edit button
 
 # Copyright
-copyright: <a href="https://twitter.com/gbvitrano" title="@gbvitrano " target="_blank">By @gbvitrano </a> | <a href="https://creativecommons.org/licenses/by-sa/4.0/" title="Se non specificato diversamente, tutti i contenuti sono soggetti alla licenza Creative Commons Attribution-ShareAlike 4.0 licence (CC BY-SA)" target="_blank" class="link-dark text-decoration-none">Licenza CC-BY-SA-4.0</a>
+copyright: <a href="https://twitter.com/gbvitrano" title="@gbvitrano " target="_blank">By @gbvitrano </a> | <a href="https://mkdocs-gb.coseerobe.it/privacy/" title="Informativa privacy estesa" target="_parent">Privacy</a> | <a href="https://creativecommons.org/licenses/by-sa/4.0/" title="Se non specificato diversamente, tutti i contenuti sono soggetti alla licenza Creative Commons Attribution-ShareAlike 4.0 licence (CC BY-SA)" target="_blank" class="link-dark text-decoration-none">CC-BY-SA-4.0</a>
 
 ## Social Media
 extra:
@@ -188,6 +188,6 @@ nav:
             - bla bla: bla.md   
         - bla bla: bla.md
         - bla bla: bla.md 
-    - Privacy: privacy.md 
+  #  - Privacy: privacy.md 
   # - Tags: tags.md
   
