@@ -5,9 +5,9 @@ site_description: MaterialMkDocs-gb repo test
 site_author: gbvitrano
 
 ## Repository
-repo_name: MaterialMkDocs-gb
-repo_url: https://github.com/gbvitrano/MaterialMkDocs-gb
-edit_uri: edit/main/docs/ #disables edit button
+repo_name: # MaterialMkDocs-gb
+repo_url: ../feed_rss_created.xml
+edit_uri: # edit/main/docs/ #disables edit button
 
 # Copyright
 copyright: <a href="https://twitter.com/gbvitrano" title="@gbvitrano " target="_blank">By @gbvitrano </a> | <a href="https://creativecommons.org/licenses/by-sa/4.0/!" title="Se non specificato diversamente, tutti i contenuti sono soggetti alla licenza Creative Commons Attribution-ShareAlike 4.0 licence (CC BY-SA)" target="_blank" class="link-dark text-decoration-none">Licenza CC-BY-SA-4.0</a>
@@ -25,7 +25,7 @@ extra:
     - icon: fontawesome/brands/facebook
       link: https://www.facebook.com/groups/opendatasicilia/
       name: gruppo facebook
-    - icon: fontawesome/brands/github-alt
+    - icon: fontawesome/brands/github
       link: https://github.com/gbvitrano/MaterialMkDocs-gb
       name: Repoisitory GitHub
     - icon: fontawesome/brands/telegram
@@ -77,8 +77,9 @@ theme:
     code: Roboto Mono
   favicon: img/favicon.ico
   icon:
-  logo: img/gb_128.png
-
+    logo: img/gb_128.png
+    repo: fontawesome/solid/rss
+    
 plugins:
 - search
 - mkdocstrings
