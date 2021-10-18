@@ -14,6 +14,7 @@ copyright: <a href="https://twitter.com/gbvitrano" title="@gbvitrano " target="_
 
 ## Social Media
 extra:
+  disqus: materialmkdocs-gb
   manifest: "manifest.webmanifest"
   social:
     - icon: fontawesome/solid/home
