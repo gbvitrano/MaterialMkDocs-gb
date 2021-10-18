@@ -14,11 +14,11 @@ copyright: <a href="https://twitter.com/gbvitrano" title="@gbvitrano " target="_
 
 ## Social Media
 extra:
- # Come inserire i commenti di Disqus https://squidfunk.github.io/mkdocs-material/setup/adding-a-comment-system/#other-comment-systems
- # Crea accont e sito shortname https://help.disqus.com/en/articles/1717111-what-s-a-shortname
- # disqus: <shortname>  
+## Come inserire i commenti di Disqus https://squidfunk.github.io/mkdocs-material/setup/adding-a-comment-system/#other-comment-systems
+## Crea accont e sito shortname https://help.disqus.com/en/articles/1717111-what-s-a-shortname
+## disqus: <shortname>  
   disqus: materialmkdocs-gb
-  #  materialmkdocs-gb è lo <shortname> legato a Disqus
+##  materialmkdocs-gb è lo <shortname> legato a Disqus
   manifest: "manifest.webmanifest"
   social:
     - icon: fontawesome/solid/home
